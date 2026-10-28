@@ -1,0 +1,6 @@
+Student: Sheetal Ramteke
+Roll Number: 25081
+Project: AI Electricity Bill Forecaster
+Recommended Google Drive folder: 25081_Sheetal_Ramteke_AI_Electricity_Bill_Forecaster
+Recommended GitHub repository: ai-electricity-bill-forecaster
+College/institute: Not provided
